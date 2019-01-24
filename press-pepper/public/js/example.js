@@ -4,6 +4,7 @@
 // when loading our scripts
 
 // Load a dummy json file using the fetch API
+
 fetch('data/dummy.json')
     // this promise will be fulfilled when the json fill will be
     .then(function (response){

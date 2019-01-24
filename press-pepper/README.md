@@ -1,24 +1,22 @@
 # Descriptif du projet
 
-Porteur de projet :
+Porteur de projet : Mr Guillaume Trouin
 
-Sujet :
+Sujet : Press Pepper
 
-Equipe :
+Equipe : Equipe Scoville
 
-Participants : 
+Participants :
 
-- Sciencescom
-
-- EDNA :
-- Polytech :  
+- Sciencescom : Lisa, Nicolas, Maëva
+- AGR : Marius, Liza, Léa
+- Polytech :  Victor, Raphaël
 
 # Installation
 
-TODO
+
 
 
 
 # Informations complémentaires
 
-TODO
