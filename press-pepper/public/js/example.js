@@ -1,7 +1,5 @@
 'use strict';
 
-// No need for window.onload event here since we are using the def attribute
-// when loading our scripts
 
 // Load a dummy json file using the fetch API
 
