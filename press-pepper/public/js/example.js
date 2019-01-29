@@ -13,7 +13,6 @@ fetch('data/dummy.json')
             return response.json();
         else // if not, send some error message as JSON data
             return {data: "JSON file not found"};
-
     })
     // in case of invalid JSON (parse error) send some error message as JSON data
     .catch( function (error){

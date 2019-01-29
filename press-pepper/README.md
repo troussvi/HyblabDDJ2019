@@ -1,6 +1,6 @@
 # Descriptif du projet
 
-Porteur de projet : Mr Guillaume Trouin
+Porteur de projet : Mr Guillaume Frouin
 
 Sujet : Press Pepper
 
